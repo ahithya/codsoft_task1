@@ -30,5 +30,5 @@ This project is part of the **CodSoft Internship - Task 1**, where the goal is t
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/codsoft_task1.git
+   git clone https://github.com/ahithya/codsoft_task1.git
    cd codsoft_task1
